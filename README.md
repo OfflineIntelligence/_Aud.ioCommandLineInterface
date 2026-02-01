@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">_Aud.io|CLI</h1>
+  <h1 align="center">_Aud.io | CLI</h1>
   <p align="center">
-    <strong>Privacy-first, offline AI coding assistant</strong>
+    <strong>Audio Command Line Interface : Private Code Agent</strong>
   </p>
   <p align="center">
     A fully local AI coding assistant that runs 100% on your machine. No cloud, no telemetry, no API keys required.
