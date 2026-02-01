@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🔊 Aud.io</h1>
+  <h1 align="center">_Aud.io|CLI</h1>
   <p align="center">
     <strong>Privacy-first, offline AI coding assistant</strong>
   </p>
